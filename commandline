@@ -1,0 +1,19 @@
+c++
+press : alt + x, type : compile
+make -k test.cpp test
+./test
+
+save - [c-x, c-s]
+save as - [c-x, c-w]
+open a new file - [c-x, c-f]
+close buffer - [c-x, c-k]
+help [c-h]
+undo [c-x, u]
+cancel [c-g]
+quit[c-x, c-c]
+
+
+jump to line :
+press : alt + g, g, [line-number]
+
+yt-dlp --help
